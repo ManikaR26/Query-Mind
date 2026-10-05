@@ -1,0 +1,13 @@
+torch>=2.3
+transformers>=4.44
+sentencepiece>=0.2
+accelerate>=0.33
+huggingface-hub>=0.24
+mysql-connector-python>=9.0
+sqlglot>=25.0
+streamlit>=1.38
+plotly>=5.24
+pandas>=2.2
+python-dotenv>=1.0
+tqdm>=4.66
+scikit-learn>=1.5
