@@ -376,10 +376,4 @@ See `docs/VERIFICATION.md` for the exact build-time verification status.
 6. Error analysis by JOIN, aggregation, column selection, nesting and filtering failures.
 7. Docker Compose for MySQL + app reproducibility.
 
-# Suggested resume wording after real evaluation
 
-Do **not** insert a fabricated metric. After training/evaluation, a defensible bullet format is:
-
-> Fine-tuned a schema-aware FLAN-T5 sequence-to-sequence model with PyTorch on the Spider cross-domain Text-to-SQL benchmark, generating MySQL queries from natural-language questions and relational schema context.
-
-> Built a read-only MySQL execution and evaluation pipeline with SQL validation, result-based execution testing, and a Streamlit/Plotly analytics interface; achieved **[your measured metric]** on the held-out evaluation set.
